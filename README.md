@@ -1,3 +1,3 @@
 #  Ассалам алейкум брат!
 ## За 75к заберу брат ##
-[id]: project01/75bro.jpeg
+[id]: project01/bro.jpeg
