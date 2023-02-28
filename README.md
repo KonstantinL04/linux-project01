@@ -1,3 +1,3 @@
-#  Ассалам алейкум брат!#
-## за 75к заберу ##
-![bro](/Users/konstantinlitvinov/Documents/projects/project01/75bro.jpeg)
+#  Ассалам алейкум брат!
+## За 75к заберу брат ##
+[id]: project01/75bro.jpeg
